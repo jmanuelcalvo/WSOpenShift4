@@ -36,7 +36,7 @@ Jose Manuel Calvo I
 
 
 # Laboratorios
-[Taller 1](talleres/taller1.md) - Iniciando con OpenShift - Comandos, creacion de recursos (proyectos, apps, svc, routes)
+[Taller 1](talleres/taller1.md) - Iniciando con OpenShift - Explorando OpenShift (proyectos, apps, svc, routes)
 
 [Taller 2](talleres/taller2.md) - Volumenes Persistentes, ConfigMap y Secrets
 
